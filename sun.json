@@ -1,0 +1,382 @@
+{
+  "id": "sun-archived-videos",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@archived_videos Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_06133c5275f1",
+    "display_name": "archived_videos",
+    "user_id": "@archived_videos",
+    "description": "Community Archive-derived proof-of-search sun for @archived_videos.",
+    "document_count": 13778,
+    "word_count": 240831,
+    "active_days": 339,
+    "emissions": [
+      "Think",
+      "Don",
+      "Good",
+      "Yacinemtb",
+      "Something",
+      "Really"
+    ],
+    "generated_at": "2026-06-27T15:31:26.015899+00:00",
+    "color": "#f59e0b",
+    "mass": 12.392
+  },
+  "planets": [
+    {
+      "id": "planet_ffce661e4f3e",
+      "name": "Think",
+      "summary": "Archive cluster around think: 10646 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "stuff",
+        "way",
+        "yeah",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_192306300d3f",
+          "title": "Think receipt from 2024-11-03",
+          "excerpt": "@Andr3jH https://t.co/ZLIj36xYAP",
+          "source_document_id": "1852889374536413650",
+          "timestamp": "2024-11-03T01:43:46+00:00",
+          "url": "https://x.com/archived_videos/status/1852889374536413650",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, stuff, way, yeah."
+        },
+        {
+          "id": "art_78bc71f136b7",
+          "title": "Think receipt from 2024-08-21",
+          "excerpt": "\"So you're doing programming?\n- Yeah\n- I could never do that\"\nWhat are you supposed to reply here?",
+          "source_document_id": "1826317663976423799",
+          "timestamp": "2024-08-21T17:57:17+00:00",
+          "url": "https://x.com/archived_videos/status/1826317663976423799",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, stuff, way, yeah."
+        },
+        {
+          "id": "art_ebbeb6308c1e",
+          "title": "Think receipt from 2024-07-21",
+          "excerpt": "@1owroller Teach him the minecraft villager sound",
+          "source_document_id": "1814998692253811138",
+          "timestamp": "2024-07-21T12:19:43+00:00",
+          "url": "https://x.com/archived_videos/status/1814998692253811138",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, stuff, way, yeah."
+        },
+        {
+          "id": "art_b685dfc84951",
+          "title": "Think receipt from 2024-06-30",
+          "excerpt": "Type of guy that uses vim every day but still uses :wq",
+          "source_document_id": "1807277344643514473",
+          "timestamp": "2024-06-30T04:57:51+00:00",
+          "url": "https://x.com/archived_videos/status/1807277344643514473",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, stuff, way, yeah."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d3ca05f64e1e",
+      "proof_score": 1,
+      "mass": 36.176,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_7b482552e715",
+      "name": "Don",
+      "summary": "Archive cluster around don: 827 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "really",
+        "good",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9742d546c515",
+          "title": "Don receipt from 2024-11-04",
+          "excerpt": "@cremieuxrecueil I genuinely don't understand how he does that",
+          "source_document_id": "1853579946389651767",
+          "timestamp": "2024-11-04T23:27:51+00:00",
+          "url": "https://x.com/archived_videos/status/1853579946389651767",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, good."
+        },
+        {
+          "id": "art_bbbb380b153a",
+          "title": "Don receipt from 2024-08-02",
+          "excerpt": "@yacineMTB It's very easy you just need your mother to be jewish, you don't have to do anything yourself",
+          "source_document_id": "1819381655930392762",
+          "timestamp": "2024-08-02T14:36:03+00:00",
+          "url": "https://x.com/archived_videos/status/1819381655930392762",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, good."
+        },
+        {
+          "id": "art_4c9cdcf0c7b4",
+          "title": "Don receipt from 2024-06-25",
+          "excerpt": "@fasterthanlime It's kind of scary to see that even smart people don't know that aggressive cookie banners are not mandated by the law, quite the opposite in fact.\nNot surprising considering how much people live from adtech, but frustrating",
+          "source_document_id": "1805711750798754285",
+          "timestamp": "2024-06-25T21:16:44+00:00",
+          "url": "https://x.com/archived_videos/status/1805711750798754285",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, good."
+        },
+        {
+          "id": "art_e6293ccb40ac",
+          "title": "Don receipt from 2024-07-07",
+          "excerpt": "@liz_love_lace Time to write \"don't write \"don't build the torment nexus\"\"",
+          "source_document_id": "1810040482694619209",
+          "timestamp": "2024-07-07T19:57:34+00:00",
+          "url": "https://x.com/archived_videos/status/1810040482694619209",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, really, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_44276e073607",
+      "proof_score": 1,
+      "mass": 30.157,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_d736883103fb",
+      "name": "Good",
+      "summary": "Archive cluster around good: 858 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "yacinemtb",
+        "morning",
+        "stuff"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fb2d1f9ff67c",
+          "title": "Good receipt from 2024-08-09",
+          "excerpt": "@villecallio Same thing with programming. Once you start asking yourself \"what have they actually shipped?\" you realize that most of what's popular online is made by people good at being popular online instead of being good at their subjects",
+          "source_document_id": "1821869882075418811",
+          "timestamp": "2024-08-09T11:23:23+00:00",
+          "url": "https://x.com/archived_videos/status/1821869882075418811",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, yacinemtb, morning."
+        },
+        {
+          "id": "art_69f7ae277597",
+          "title": "Good receipt from 2024-07-07",
+          "excerpt": "@yacineMTB The opposite is very easy to understand: there are no situations where not looking good benefits you. There are not situations where not looking better benefits you",
+          "source_document_id": "1810067624946225504",
+          "timestamp": "2024-07-07T21:45:25+00:00",
+          "url": "https://x.com/archived_videos/status/1810067624946225504",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, yacinemtb, morning."
+        },
+        {
+          "id": "art_851963bf3d01",
+          "title": "Good receipt from 2024-08-21",
+          "excerpt": "@namingbe_ Oh could be a good one actually, kind of break the usual flow",
+          "source_document_id": "1826348308811714718",
+          "timestamp": "2024-08-21T19:59:03+00:00",
+          "url": "https://x.com/archived_videos/status/1826348308811714718",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, yacinemtb, morning."
+        },
+        {
+          "id": "art_438a66dc95c1",
+          "title": "Good receipt from 2024-08-21",
+          "excerpt": "@rampagerich51 That's a really good one",
+          "source_document_id": "1826385490448449988",
+          "timestamp": "2024-08-21T22:26:48+00:00",
+          "url": "https://x.com/archived_videos/status/1826385490448449988",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, yacinemtb, morning."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f8c4a96e8856",
+      "proof_score": 1,
+      "mass": 28.953,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_b0f7b1498ce7",
+      "name": "Yacinemtb",
+      "summary": "Archive cluster around yacinemtb: 687 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yacinemtb",
+        "yeah",
+        "something",
+        "work",
+        "stuff"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a6cc51c0bdc0",
+          "title": "Yacinemtb receipt from 2024-07-26",
+          "excerpt": "@yacineMTB This is why I always tell people to remember to smile :)",
+          "source_document_id": "1816806678504821181",
+          "timestamp": "2024-07-26T12:04:01+00:00",
+          "url": "https://x.com/archived_videos/status/1816806678504821181",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yacinemtb, yeah, something, work."
+        },
+        {
+          "id": "art_73837bd7923f",
+          "title": "Yacinemtb receipt from 2024-08-18",
+          "excerpt": "@yacineMTB Baiting Robert Martin is on another level",
+          "source_document_id": "1825154572559528092",
+          "timestamp": "2024-08-18T12:55:34+00:00",
+          "url": "https://x.com/archived_videos/status/1825154572559528092",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yacinemtb, yeah, something, work."
+        },
+        {
+          "id": "art_a496d9f4d097",
+          "title": "Yacinemtb receipt from 2024-07-09",
+          "excerpt": "@yacineMTB It's fake (but I'm thinking about leaving)",
+          "source_document_id": "1810741612533952959",
+          "timestamp": "2024-07-09T18:23:37+00:00",
+          "url": "https://x.com/archived_videos/status/1810741612533952959",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yacinemtb, yeah, something, work."
+        },
+        {
+          "id": "art_39fc00aa4411",
+          "title": "Yacinemtb receipt from 2024-07-31",
+          "excerpt": "@yacineMTB Big companies have that too. You receive a few newsletter and then realize, wait, people are paid to write this. They're talking about internal events and training that people are paid to organize and produce",
+          "source_document_id": "1818609396089237979",
+          "timestamp": "2024-07-31T11:27:22+00:00",
+          "url": "https://x.com/archived_videos/status/1818609396089237979",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yacinemtb, yeah, something, work."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_55ea07c8e5a4",
+      "proof_score": 1,
+      "mass": 27.743,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_7ad29e5645ec",
+      "name": "Something",
+      "summary": "Archive cluster around something: 449 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "something",
+        "time",
+        "maybe",
+        "feel",
+        "kind"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d095ddde0e33",
+          "title": "Something receipt from 2024-11-01",
+          "excerpt": "@cremieuxrecueil The details are even worse. Maybe wikipedia should look into having something like Gwern to archive the stuff you link? Disk space is cheap now https://t.co/u7iV1I2n5L",
+          "source_document_id": "1852280717641712009",
+          "timestamp": "2024-11-01T09:25:11+00:00",
+          "url": "https://x.com/archived_videos/status/1852280717641712009",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, time, maybe, feel."
+        },
+        {
+          "id": "art_e540f34bb759",
+          "title": "Something receipt from 2024-07-08",
+          "excerpt": "@airkatakana Most upvoted response is cope. I'm not really surprised as something like \"learnX\" is a typical salty lake, the fresh water comes and evaporates, the salt stays for a long time https://t.co/wi0mEGEdHc",
+          "source_document_id": "1810379940275310632",
+          "timestamp": "2024-07-08T18:26:27+00:00",
+          "url": "https://x.com/archived_videos/status/1810379940275310632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, time, maybe, feel."
+        },
+        {
+          "id": "art_a38c795a3487",
+          "title": "Something receipt from 2024-10-27",
+          "excerpt": "@_xjdr Took me a while too, I found it completely by accident on the NixOS wiki while looking fo something unrelated!",
+          "source_document_id": "1850591583361544208",
+          "timestamp": "2024-10-27T17:33:10+00:00",
+          "url": "https://x.com/archived_videos/status/1850591583361544208",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, time, maybe, feel."
+        },
+        {
+          "id": "art_2cda3ae71f83",
+          "title": "Something receipt from 2024-07-09",
+          "excerpt": "@eigenrobot I feel like for men there's a \"haha it's really funny he's into feet\" phase and a \"wait you are really into that? WTF dude\" phase. It's all fun and games as long as you never mention it or something like that",
+          "source_document_id": "1810688521448894653",
+          "timestamp": "2024-07-09T14:52:39+00:00",
+          "url": "https://x.com/archived_videos/status/1810688521448894653",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, time, maybe, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ced9f4bd0725",
+      "proof_score": 0.961,
+      "mass": 28.312,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_2dcee603c85b",
+      "name": "Really",
+      "summary": "Archive cluster around really: 311 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "stuff",
+        "feel",
+        "cool",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_244e35bad92f",
+          "title": "Really receipt from 2024-09-16",
+          "excerpt": "@arithmoquine To be fair it's a really unintuitive graph",
+          "source_document_id": "1835692698444972133",
+          "timestamp": "2024-09-16T14:50:19+00:00",
+          "url": "https://x.com/archived_videos/status/1835692698444972133",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, stuff, feel, cool."
+        },
+        {
+          "id": "art_ffacf48e30c3",
+          "title": "Really receipt from 2024-07-28",
+          "excerpt": "@jellyhoshiumi I thought it was graduation for a second and got really scared",
+          "source_document_id": "1817632875568664904",
+          "timestamp": "2024-07-28T18:47:02+00:00",
+          "url": "https://x.com/archived_videos/status/1817632875568664904",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, stuff, feel, cool."
+        },
+        {
+          "id": "art_3529712562cf",
+          "title": "Really receipt from 2024-09-11",
+          "excerpt": "@default_friend Man \"weird\" has really grown as a new thought terminating cliché",
+          "source_document_id": "1833874657650348488",
+          "timestamp": "2024-09-11T14:26:04+00:00",
+          "url": "https://x.com/archived_videos/status/1833874657650348488",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, stuff, feel, cool."
+        },
+        {
+          "id": "art_4c186c335c2e",
+          "title": "Really receipt from 2024-10-24",
+          "excerpt": "@sympatheticopp I felt like I wasn't really \"getting\" the article but that comment and your answer helped a lot https://t.co/cOUDIoAV5S",
+          "source_document_id": "1849373394690523316",
+          "timestamp": "2024-10-24T08:52:31+00:00",
+          "url": "https://x.com/archived_videos/status/1849373394690523316",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, stuff, feel, cool."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_064fd5b87a49",
+      "proof_score": 0.924,
+      "mass": 26.385,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
